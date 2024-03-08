@@ -1,0 +1,4 @@
+random
+numpy 
+
+must be installed to run this program
