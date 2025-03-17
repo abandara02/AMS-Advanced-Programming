@@ -1,6 +1,6 @@
 ##Truth or Dare 2023##
 
-Created by Aritha Bandara, Prabraj singh and Chanhwan Park to fulfill the requirements of Applied Mechatronics systems - Advance Programming Course under the Guidance of Dr. Kristian Rother.
+Created by Aritha Bandara to fulfill the requirements of Applied Mechatronics systems 
 
 This file explains the game and it's Logic. You may contact the authors via email shoudl you have any questions.
 
